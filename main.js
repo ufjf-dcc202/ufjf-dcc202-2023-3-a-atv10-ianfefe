@@ -1,0 +1,1 @@
+import {getJoao,getMaria,setJoao,setMaria,deJoaoParaMaria,deMariaParaJoao} from 'src/joaoEMaria.js';
